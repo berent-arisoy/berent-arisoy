@@ -2,9 +2,9 @@
 
 # Hi, I'm Berent 👋
 
-### Backend Developer (.NET / C#) | Test Automation | Computer Science Graduate
+### Backend Developer (.NET / C#) | Test Automation
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Computer+Engineering+Graduate+(2026);Building+RESTful+APIs+with+C%23+%2F+.NET;PostgreSQL+%26+MongoDB;Always+shipping+something+new" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=520&lines=Computer+Science+Graduate+(2026);Building+RESTful+APIs+with+C%23+%2F+.NET;PostgreSQL+%26+MongoDB;Always+shipping+something+new" alt="Typing SVG" />
 
 </div>
 
@@ -82,7 +82,7 @@ A lightweight expense tracking app.
 <img src="https://github-readme-stats.vercel.app/api?username=berent-arisoy&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berent-arisoy&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=berent-arisoy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=berent-arisoy&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
